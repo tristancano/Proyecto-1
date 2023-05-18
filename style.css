@@ -1,0 +1,28 @@
+body {
+    background-color: darkslategray;
+}
+ table, th, td {
+    border: 1px solid black;
+}
+header {
+        background-color: darkslategray;
+}
+footer{
+    color:aliceblue;
+}
+
+#titulo{
+        color: blueviolet;
+}
+
+.parrafo{
+        font-size: 18px;
+        font-style: italic;
+        
+}
+
+
+
+
+
+      
