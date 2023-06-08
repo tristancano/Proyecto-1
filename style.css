@@ -1,28 +1,91 @@
 body {
-    background-color: darkslategray;
+    background-image: url(bg.jpg);
+
 }
  table, th, td {
     border: 1px solid black;
 }
 header {
-        background-color: darkslategray;
-}
-footer{
-    color:aliceblue;
-}
-
-#titulo{
-        color: blueviolet;
+        background-color: none;
+        font-size: 35px;
+        
+        color: antiquewhite;
+        padding: 80px;
+        margin-top: 40px;
 }
 
-.parrafo{
-        font-size: 18px;
+.profile-description{
+        background-color: none;
+        font-size: 35px;
+        font-style:oblique;
+        color: antiquewhite;
+
+}
+
+
+.profile-description{
+        font-size: 28px;
         font-style: italic;
+        text-align: center;
         
 }
 
 
 
+
+.skills{
+        font-size: 38px;
+        text-align: left;
+        color: aliceblue;
+}
+
+.Foto_principal .image-profile{
+        
+        
+        border-color: black;
+        padding: 40px;
+        width: 300px;
+        margin: 0 auto;
+        margin-bottom: 35px;
+}
+
+h2 {
+        font-size: 28px;
+        font-style: italic;
+        text-align: center;
+        color: aliceblue;
+
+}
+
+.panel_derecho a{
+        margin-right: 20px;
+        color: black;
+    
+    }
+
+nav .panel_derecho{
+
+        width: 750px;
+        height: auto;
+        display: flex;
+        justify-content: center;
+        list-style: none;
+        align-items: center;
+        margin-left: 20px;
+        margin-right: 20px;
+        background-color: none;
+        font-size: 25px;
+        font-style:oblique;
+        color: antiquewhite;
+    }
+
+
+    nav .panel_derecho img{
+        margin-left: 50px;
+        width: 220px;
+    
+    
+    }
 
 
       
